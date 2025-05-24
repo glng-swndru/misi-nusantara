@@ -1,0 +1,15 @@
+{
+  "player_name": "Gilang",
+  "inventory": [
+    "Time Chronometer",
+    "Majapahit Batik Cloth"
+  ],
+  "current_era": "colonial",
+  "completed_eras": [
+    "majapahit"
+  ],
+  "choices": {
+    "majapahit_merchant": 0,
+    "majapahit_location": 0
+  }
+}
