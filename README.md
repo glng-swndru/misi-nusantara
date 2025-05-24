@@ -1,6 +1,6 @@
 # 🎮 Nusantara Mission
 
-**Nusantara Mission** is a terminal-based interactive text adventure game built using **Amazon Q CLI**. In this game, you play as Arya, a time traveler from the future who must protect Indonesian history from being altered.
+**Nusantara Mission** is a terminal-based interactive text adventure game built using **Amazon Q CLI**. In this game, you play as Player, a time traveler from the future who must protect Indonesian history from being altered.
 
 This project was created as part of the **"Build Games with Amazon Q CLI"** challenge.
 
